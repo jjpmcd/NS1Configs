@@ -6,4 +6,4 @@ Admirable's configs for Natural Selection.
 2. Place in Steam\steamapps\common\Half-Life\ns
 
 ## Launch options
--noforcemparms -noforcemspd -noforcemaccel -w 1280 -h 720 -freq 120 -120hz
+-noforcemparms -w 1280 -h 720 -freq 120
